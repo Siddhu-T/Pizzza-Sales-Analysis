@@ -11,6 +11,10 @@ This data analysis project aims to provide insights into the sales performance o
 the past year. By analyzing various aspects of the sales data, we seek to identify trends, 
 make data-driven recommendations, and gain a deeper understanding of the sales performance.
 
+Dahboard First Page
+![WhatsApp Image 2023-11-30 at 5 45 49 PM](https://github.com/Siddhu-T/Pizzza-Sales-Analysis/assets/101640915/bfca18f7-7019-4e56-9551-cf0e78e5c3eb)
+
+
 ## Data Source
 Sales Data: The dataset used for this analysis is in the "pizza_sales.csv" file, contain detail information 
 about the sales in the company
